@@ -1,0 +1,5 @@
+print("Ingresa tu factura:")
+Factura = float(input())
+print("El monto de tu propina es:")
+print(Factura * 20 /100)
+print("¡Gracias por tu propina!")
